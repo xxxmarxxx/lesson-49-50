@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #EDF2D9;
+}
+.title{
+    background-color: #699C44;
+    padding: 30px;
+    text-align: center;
+    color:#10252E;
+}
+h2{
+    margin: 50px 0 50px;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    color: #437589;
+}
+.cash{
+    margin-left: 0px;
+    padding: 10px;
+    font-size: 24px;
+}
+
+input{
+margin-left: 0px;
+padding: 10px;
+font-size: 24px;
+background-color: #A5BE4B;
+border: solid 0px;
+}
+.app{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+background-color: #437589;
+}
